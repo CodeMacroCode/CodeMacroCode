@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeMacroCode
 - 👀 I’m interested in Web Developing & still learning and want to make amazing websites lot's and lot's of em. I'm also interested in AI & Web application based projects.
-- 🌱 I’m currently learning Web Developing.
+- 🌱 I’m currently learning OSM Web Developing.
 - 💞️ I’m looking to collaborate on Web application based projects so feel free to contact me.
 - 📫 You can reach me discord CodeMacroCode#0506
 <!---
