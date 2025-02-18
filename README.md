@@ -14,4 +14,4 @@ With a passion for **clean code** and **problem-solving**, I love crafting **sea
 📚 I'm always eager to **learn new technologies**, collaborate on **exciting projects**, and stay ahead in the ever-evolving world of web development! 🚀🌍  
 
 📫 **Let's connect!**  
-[LinkedIn]linkedin.com/in/piyush-harde-44503a17a
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Harde-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/piyush-harde-44503a17a)  
