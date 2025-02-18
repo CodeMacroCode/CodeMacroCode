@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Piyush Harde
-- 👀 I’m interested in Web Developing & still learning and want to make amazing websites lot's and lot's of em. I'm also interested in AI & Web application based projects.
-- 🌱 I’m currently learning OSM Web Developing.
-- 💞️ I’m looking to collaborate on Web application based projects so feel free to contact me.
-- 📫 You can reach me discord CodeMacroCode#0506
-<!---
-CodeMacroCode/CodeMacroCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Piyush Harde!  
+
+### 🚀 MERN Stack Developer | Full-Stack Web Developer  
+
+I specialize in building **dynamic, scalable web applications** using **MongoDB, Express.js, React, and Node.js**. 💻✨  
+With a passion for **clean code** and **problem-solving**, I love crafting **seamless user experiences** and bringing ideas to life through technology. 🎨⚡  
+
+🌟 **What I Do:**  
+- 💡 Full-Stack Web Development  
+- ⚙️ Scalable & Efficient Solutions  
+- 🎨 Modern UI/UX Implementations  
+- 📡 API Development & Integrations  
+
+📚 I'm always eager to **learn new technologies**, collaborate on **exciting projects**, and stay ahead in the ever-evolving world of web development! 🚀🌍  
+
+📫 **Let's connect!**  
+[LinkedIn](linkedin.com/in/piyush-harde-44503a17a)
